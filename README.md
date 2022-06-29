@@ -15,4 +15,4 @@ Por meio desse projeto consegui aprimorar o raciocínio lógico e o estudo da si
 Raciocínio lógico e noções básicas de Phyton.
 
 ## Link do repositório do GitHub:
-https://github.com/caluoliveira/Conversao-de-Graus-Celsius-em-Fahrenheit
+https://github.com/caluoliveira/Conversao-de-Graus-Fahrenheit-em-Celsius-
